@@ -7,21 +7,21 @@ const App = () => {
       <Post title="Jaguar" 
         content="Después del tigre y el león, el jaguar es el tercer 
       felino más grande del mundo y el más grande de América." 
-        imageUrl="public/Imagenes/Jaguar.webp"/>
+        imageUrl="public/Images/Jaguar.webp"/>
       <Post title="Guacamayo" 
         content="Los guacamayos 
       pueden vivir entre 30 y 50 años en la naturaleza, y aún más 
       tiempo en cautiverio." 
-        imageUrl="public/Imagenes/Guacamaya.webp"/>
+        imageUrl="public/Images/Guacamaya.webp"/>
       <Post title="Anaconda" 
         content="La anaconda verde es la serpiente más pesada del 
         mundo, llegando a pesar más de 200 kg (440 libras)."
-        imageUrl="public/Imagenes/Anaconda.webp"/>
+        imageUrl="public/Images/Anaconda.webp"/>
       <Post title="Tucán"
         content="El pico del tucán puede llegar 
         a medir hasta un tercio de la longitud total del 
         ave, y es más largo que su propio cuerpo."
-        imageUrl="public/Imagenes/Tucan.webp"/>
+        imageUrl="public/Images/Tucan.webp"/>
     </div>
   );
 };
