@@ -11,7 +11,7 @@ Este repositorio contiene un ejemplo en React que hace uso de:
 
 3.	Eventos
 
-Este esta alojado en dentro del repositorio en la carpeta de HolaMundo
+Este esta alojado en la carpeta llamada HolaMundo
 
 > **Important:**
 > Si no sabes como clonar un repositorio aqui te dejo las instrucciones de como hacerlo con GitHub Desktop
