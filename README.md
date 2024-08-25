@@ -4,6 +4,7 @@
 > Te recomiendo usar GitHub Desktop para facilitar la clonación de este repositorio.
 
 Este repositorio contiene un ejemplo en React que hace uso de:
+
 1.Componentes
 2.JSX
 3.Eventos
