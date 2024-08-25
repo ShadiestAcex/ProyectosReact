@@ -13,7 +13,7 @@ Este esta alojado en dentro del repositorio en la carpeta de HolaMundo
 > **Important:**
 > Si no sabes como clonar un repositorio aqui te dejo las instrucciones de como hacerlo con GitHub Desktop
 
-Clonar este proyecto usando GitHub Desktop
+Como clonar este proyecto usando GitHub Desktop
 
 Para clonar este proyecto en tu máquina local utilizando GitHub Desktop, sigue estos pasos:
 
@@ -25,6 +25,7 @@ Para clonar este proyecto en tu máquina local utilizando GitHub Desktop, sigue 
 	4.	Selecciona el repositorio:
 	•	En la pestaña URL, ingresa la URL del repositorio:
   https://github.com/ShadiestAcex/ProyectosReact
+  
 	•	Elige la ubicación en tu máquina donde deseas clonar el proyecto.
 	5.	Haz clic en Clone para iniciar el proceso de clonación.
 	6.	Accede al proyecto:
