@@ -1,2 +1,3 @@
 # ProyectosReact
- Primeros proyectos de react
+>.[!IMPORTANT].
+Proyectos de ejemplo en React 
