@@ -6,7 +6,9 @@
 Este repositorio contiene un ejemplo en React que hace uso de:
 
 1.Componentes
+
 2.JSX
+
 3.Eventos
 
 Este esta alojado en dentro del repositorio en la carpeta de HolaMundo
